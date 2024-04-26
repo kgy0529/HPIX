@@ -38,8 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/kgy0529/HPIX",
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "homepage": "https://kgy0529.github.io/HPIX"
 }
